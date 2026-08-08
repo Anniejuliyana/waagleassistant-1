@@ -1,6 +1,6 @@
 import { retrieve, rerankWithEmbeddings, classifyIntent, type RetrievalResult } from "./retrieval";
 import { openai } from "@ai-sdk/openai";
-import { google } from "@ai-sdk/google";
+import { createGoogleGenerativeAI } from "@ai-sdk/google";
 import type { LanguageModel } from "ai";
 
 export type ChatMessage = { role: "user" | "assistant" | "system"; content: string };
@@ -31,7 +31,12 @@ export function isEmergency(text: string): boolean {
  * null (no key configured, caller should use the deterministic fallbackAnswer).
  */
 export function getModel(): LanguageModel | null {
+  // The @ai-sdk/google package's default `google(...)` export only reads the
+  // API key from GOOGLE_GENERATIVE_AI_API_KEY. We use GEMINI_API_KEY as our
+  // documented env var name instead, so we must construct the provider
+  // explicitly and pass the key through rather than relying on the default.
   if (process.env.GEMINI_API_KEY) {
+    const google = createGoogleGenerativeAI({ apiKey: process.env.GEMINI_API_KEY });
     return google("gemini-1.5-flash");
   }
   if (process.env.OPENAI_API_KEY) {
