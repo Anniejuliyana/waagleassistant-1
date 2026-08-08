@@ -1,0 +1,964 @@
+[
+  {
+    "id": "support-mywaggle-com-0",
+    "url": "https://support.mywaggle.com/",
+    "title": "Waggle Support | Pet Monitoring Setup & FAQs",
+    "breadcrumb": "Support Home",
+    "category": "FAQ",
+    "headingPath": "Get help with Waggle products",
+    "text": "Quick answers for smarter pet parenting. Waggle Support offers easy-to-follow guides, FAQs, and troubleshooting solutions to set up and optimize your pet monitoring devices. Browse product support for Pet Monitor, RV Wifi Mini Cam, WaggleCam Pro, Smart Sensor, RV 4G Camera, and RV 4G Mini Cam. FAQ categories include Ordering, Billing & Subscription, and Returns & Replacements. Support is available 24/7 via chatbot, or contact the Waggle Customer Care team Monday-Friday, 10am-8pm EST by phone at 855-983-5566 or by email at support@mywaggle.com.",
+    "tags": [
+      "faq",
+      "pet-monitor",
+      "temperature",
+      "rv",
+      "wagglecam",
+      "camera",
+      "treat-tosser",
+      "smart-sensor",
+      "door-sensor",
+      "leak-sensor",
+      "4g-camera",
+      "cellular",
+      "mini-cam",
+      "wifi-camera",
+      "subscription",
+      "billing",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-pet-monitor-help-php-0",
+    "url": "https://support.mywaggle.com/pet-monitor-help.php",
+    "title": "Waggle Pet Monitor Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > Pet Monitor",
+    "category": "Setup",
+    "headingPath": "Installation & Setup",
+    "text": "For cellular reception, install the Pet Monitor near a window with a clear view of the sky. Avoid enclosed compartments or metal surfaces. For accurate temperature readings, place the device in a dry, ventilated area away from direct sunlight and HVAC sources.\n\nRegistration steps: 1) Charge the device 7-8 hours until the LED turns green. 2) Press and hold the power button to activate. 3) Download the Waggle Super App. 4) Scan the QR code and enter your details. 5) Select a subscription plan.\n\nDevice operation: Press and hold the button for 3-5 seconds to turn the monitor on; hold for 5 seconds until 'shut down' appears to turn it off. A blinking blue LED means the device is charging; a solid blue LED (or no light) means it is fully charged. The Lite model supports up to 96 hours of battery backup; the Pro+ Air model provides up to 36 hours.",
+    "tags": [
+      "setup",
+      "pet-monitor",
+      "temperature",
+      "rv",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-pet-monitor-help-php-1",
+    "url": "https://support.mywaggle.com/pet-monitor-help.php",
+    "title": "Waggle Pet Monitor Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > Pet Monitor",
+    "category": "Setup",
+    "headingPath": "Alert System",
+    "text": "The Pet Monitor provides instant alerts on threshold breach regardless of the alert frequency setting. Alert types include temperature and humidity alerts, power loss/recovery alerts, low battery notifications, geofence alerts, network alerts, and air quality/CO2 alerts.",
+    "tags": [
+      "setup",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-pet-monitor-help-php-2",
+    "url": "https://support.mywaggle.com/pet-monitor-help.php",
+    "title": "Waggle Pet Monitor Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > Pet Monitor",
+    "category": "Setup",
+    "headingPath": "Technical Specifications",
+    "text": "The device uses 4G CatM1 network technology, which differs from a standard phone network. If your phone shows coverage but the monitor doesn't connect, try relocating the device closer to a window or door. Use only the provided USB cable and adapter for best performance; incompatible chargers may cause malfunction. The device features a factory-calibrated Swiss sensor with +/- 1 Deg C (+/- 2 Deg F) accuracy. The Pet Monitor works in the U.S. and Canada; devices are configured for cellular networks in their respective countries. Waggle does not currently support the Pet Monitor for use in Europe.",
+    "tags": [
+      "setup",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-pet-monitor-help-php-3",
+    "url": "https://support.mywaggle.com/pet-monitor-help.php",
+    "title": "Waggle Pet Monitor Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > Pet Monitor",
+    "category": "Setup",
+    "headingPath": "App Management",
+    "text": "Through the Waggle Super App, you can edit minimum/maximum temperature thresholds, add multiple email addresses and phone numbers for alerts, toggle between multiple monitors, enable/disable notifications, access temperature and humidity history logs, and pause notifications temporarily.",
+    "tags": [
+      "setup",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-pet-monitor-help-php-4",
+    "url": "https://support.mywaggle.com/pet-monitor-help.php",
+    "title": "Waggle Pet Monitor Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > Pet Monitor",
+    "category": "Setup",
+    "headingPath": "RVSentry Feature",
+    "text": "RVSentry tracks your RV's location once every 10 minutes and notifies you if it moves outside the boundary you've created, forming a virtual fence around your RV for safety.",
+    "tags": [
+      "setup",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-pet-monitor-help-php-5",
+    "url": "https://support.mywaggle.com/pet-monitor-help.php",
+    "title": "Waggle Pet Monitor Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > Pet Monitor",
+    "category": "Setup",
+    "headingPath": "Subscription Plans",
+    "text": "Pet Monitor subscription options: Monthly $24.99, Half Yearly $129, Yearly $199. The Flexi Plan is a 6-month network plan that lets you pause and resume your plan based on your travel or lifestyle needs, delivering full value over 3 active months.\n\nCancellation policy: Monthly plans can be cancelled within 24 hours of activation for a full refund. Non-monthly plans allow cancellation within the first 30 days of activation/renewal or during the last 30 days before the next renewal date.",
+    "tags": [
+      "setup",
+      "pet-monitor",
+      "temperature",
+      "rv",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-pet-monitor-help-php-6",
+    "url": "https://support.mywaggle.com/pet-monitor-help.php",
+    "title": "Waggle Pet Monitor Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > Pet Monitor",
+    "category": "Setup",
+    "headingPath": "Troubleshooting",
+    "text": "No network signal: try moving near windows or restarting the monitor; contact support if unresolved. Temperature discrepancies: thermostat variations and placement differences can cause discrepancies. App not updating: check your internet connection and update the app to the latest version, then close and reopen it. Location not updating: place the device near a window or in an open area, since signals may not work well indoors, especially deep inside an RV.",
+    "tags": [
+      "setup",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-pet-monitor-help-php-7",
+    "url": "https://support.mywaggle.com/pet-monitor-help.php",
+    "title": "Waggle Pet Monitor Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > Pet Monitor",
+    "category": "Setup",
+    "headingPath": "Resources",
+    "text": "User guide PDFs are available for Pet Monitor Lite+, Pet Monitor Lite+ (LCD), Pet Monitor Pro+, Pet Monitor Pro+ Air, Pet Monitor Lite, and Pet Monitor Pro. Video tutorials cover setup, real-time temperature alerts, signal explanation, battery power saver, why temperature readings differ, and Waggle combo plans. Contact support at 855-983-5566 or support@mywaggle.com.",
+    "tags": [
+      "setup",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-cam-ai-mini-help-php-0",
+    "url": "https://support.mywaggle.com/rv-cam-ai-mini-help.php",
+    "title": "RV Cam Wi-Fi Mini Cam Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > RV Wifi Mini Cam",
+    "category": "Setup",
+    "headingPath": "Application & Setup",
+    "text": "The RV WiFi Mini Cam supports dual-band Wi-Fi (2.4GHz and 5GHz). Field of view specs: pan 0-355 degrees, tilt -30 to 77 degrees. Night vision works up to 10 meters. This is an indoor-only design. It supports up to 5 cameras per account, offers 3MP resolution, and SD card storage up to 128GB. Features include motion/sound detection, two-way audio, and remote pan/tilt control via the app.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-cam-ai-mini-help-php-1",
+    "url": "https://support.mywaggle.com/rv-cam-ai-mini-help.php",
+    "title": "RV Cam Wi-Fi Mini Cam Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > RV Wifi Mini Cam",
+    "category": "Setup",
+    "headingPath": "How It Works",
+    "text": "Installation requires USB Type-C power. The camera includes a mounting bracket. Motion detection triggers recordings and alerts. Factory reset and firmware update processes are available through the app.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-cam-ai-mini-help-php-2",
+    "url": "https://support.mywaggle.com/rv-cam-ai-mini-help.php",
+    "title": "RV Cam Wi-Fi Mini Cam Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > RV Wifi Mini Cam",
+    "category": "Setup",
+    "headingPath": "Camera Connectivity & Streaming",
+    "text": "If the camera appears offline or streaming has issues, ensure your Wi-Fi network has at least 2 Mbps upload speed. The camera requires a password-protected Wi-Fi network for security reasons.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-cam-ai-mini-help-php-3",
+    "url": "https://support.mywaggle.com/rv-cam-ai-mini-help.php",
+    "title": "RV Cam Wi-Fi Mini Cam Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > RV Wifi Mini Cam",
+    "category": "Setup",
+    "headingPath": "LED Indicators",
+    "text": "Solid red: power on/waiting. Blinking red: setup mode. Blinking blue: connecting. Solid blue: connected. No light: off/unpowered.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-cam-ai-mini-help-php-4",
+    "url": "https://support.mywaggle.com/rv-cam-ai-mini-help.php",
+    "title": "RV Cam Wi-Fi Mini Cam Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > RV Wifi Mini Cam",
+    "category": "Setup",
+    "headingPath": "Subscription Plans",
+    "text": "Monthly plan: $4.99. Yearly plan: $29.99. Includes AI integration alerts and long-term playback, with a 30-day complimentary trial.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-cam-ai-mini-help-php-5",
+    "url": "https://support.mywaggle.com/rv-cam-ai-mini-help.php",
+    "title": "RV Cam Wi-Fi Mini Cam Help | Setup & Troubleshooting",
+    "breadcrumb": "Support > RV Wifi Mini Cam",
+    "category": "Setup",
+    "headingPath": "Cancellations & Refund Policy",
+    "text": "Monthly plans can be cancelled within 24 hours for a full refund. Non-monthly plans have a 7-30 day cancellation window depending on status. Refunds are processed within 3-5 business days. User guide: https://support.mywaggle.com/user-guide/rv-mini-camera.pdf. Support: support@mywaggle.com, 855-983-5566.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-wagglecam-pro-help-php-0",
+    "url": "https://support.mywaggle.com/wagglecam-pro-help.php",
+    "title": "WaggleCam Pro Help | Setup & Support Resources",
+    "breadcrumb": "Support > WaggleCam Pro",
+    "category": "Setup",
+    "headingPath": "Device & Application FAQs",
+    "text": "WaggleCam Pro supports dual-band WiFi (2.4GHz and 5GHz), a 110-degree field of view, and night visibility up to 10 meters. It is an indoor-only design (not weatherproof) and supports up to 5 cameras per account. Maximum resolution is 3MP, with video recording and AI-powered motion, pet, and noise detection. Pan/tilt remote control is available in landscape mode, with two-way audio via the app and auto-tracking. The built-in treat tosser requires dry treats under 1 inch in diameter.",
+    "tags": [
+      "setup",
+      "wagglecam",
+      "camera",
+      "treat-tosser"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-wagglecam-pro-help-php-1",
+    "url": "https://support.mywaggle.com/wagglecam-pro-help.php",
+    "title": "WaggleCam Pro Help | Setup & Support Resources",
+    "breadcrumb": "Support > WaggleCam Pro",
+    "category": "Setup",
+    "headingPath": "How It Works",
+    "text": "Setup is plug-and-connect: plug in the camera, download the Waggle app, register, and connect it to your WiFi via the app, following on-screen instructions. It should be placed on a stable surface like a table since it supports the treat mechanism. Factory reset is done by holding the button for 5 seconds. Firmware updates are automatic. Treat dispensing can be scheduled.",
+    "tags": [
+      "setup",
+      "wagglecam",
+      "camera",
+      "treat-tosser"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-wagglecam-pro-help-php-2",
+    "url": "https://support.mywaggle.com/wagglecam-pro-help.php",
+    "title": "WaggleCam Pro Help | Setup & Support Resources",
+    "breadcrumb": "Support > WaggleCam Pro",
+    "category": "Setup",
+    "headingPath": "Camera Connectivity & Streaming",
+    "text": "Minimum 2 Mbps upload speed is required. If offline, check WiFi and power. Bark/noise detection requires an active subscription.",
+    "tags": [
+      "setup",
+      "wagglecam",
+      "camera",
+      "treat-tosser",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-wagglecam-pro-help-php-3",
+    "url": "https://support.mywaggle.com/wagglecam-pro-help.php",
+    "title": "WaggleCam Pro Help | Setup & Support Resources",
+    "breadcrumb": "Support > WaggleCam Pro",
+    "category": "Setup",
+    "headingPath": "Subscription Plans",
+    "text": "Monthly: $9.99. Yearly: $59.99. Free plan features: live streaming, two-way audio, treat tossing, and pet tracking. Paw Plan features: playback history, advanced recording management, and AI-powered intelligent analysis. Cancellation: monthly plans get a full refund within 24 hours; non-monthly plans have 30-day cancellation windows, with pro-rata refunds available under specific conditions. Processing time is 3-5 business days. User guide: https://support.mywaggle.com/user-guide/wagglecam-pro.pdf.",
+    "tags": [
+      "setup",
+      "wagglecam",
+      "camera",
+      "treat-tosser"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-smart-sensor-help-php-0",
+    "url": "https://support.mywaggle.com/smart-sensor-help.php",
+    "title": "Smart Sensor Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > Smart Sensor",
+    "category": "Setup",
+    "headingPath": "Application & Setup",
+    "text": "To add the RV Smart Sensor: open the Waggle Pet App, tap the '+' icon, scan the QR code (located on the back of the sensor, or enter it manually), and click Register. Bluetooth is used during initial pairing before connecting to WiFi. The sensor supports both 2.4GHz and 5GHz WiFi bands, including mobile hotspots. You can name each sensor (e.g. 'Main Door') and add multiple sensors to one account. Installation is tool-free with peel-and-stick adhesive, compatible with wood, metal, plastic, tile, and drywall.",
+    "tags": [
+      "setup",
+      "smart-sensor",
+      "door-sensor",
+      "leak-sensor"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-smart-sensor-help-php-1",
+    "url": "https://support.mywaggle.com/smart-sensor-help.php",
+    "title": "Smart Sensor Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > Smart Sensor",
+    "category": "Setup",
+    "headingPath": "How It Works",
+    "text": "The RV Door Sensor monitors whether a door or window is open or closed in real time; attach the sensor on the frame and the magnet on the door/window so they align when closed. The Water Leak Sensor should be placed near potential leak zones like under sinks, near water tanks, or in storage compartments. Push notifications are sent instantly when the door opens or closes, and reminders can be set from 1 minute up to 1 hour if a door is left open. The app records activity history for the past 30 days and can email the data. Network Alerts notify you if the device goes offline; battery alert thresholds are customizable from 1% to 40%. Status updates every 8 hours. A stable WiFi connection is required; the sensors are designed for indoor RV use only, not outdoor exposure.",
+    "tags": [
+      "setup",
+      "smart-sensor",
+      "door-sensor",
+      "leak-sensor"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-smart-sensor-help-php-2",
+    "url": "https://support.mywaggle.com/smart-sensor-help.php",
+    "title": "Smart Sensor Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > Smart Sensor",
+    "category": "Setup",
+    "headingPath": "Ordering",
+    "text": "RV Smart Sensors are sold at mywaggle.com, Amazon, and authorized retailers. The RV Door Sensor package includes the main sensor unit and a magnetic contact strip. The RV Water Leak Sensor package includes the sensor unit, magnetic backing, and a water leak probe (the Leak Sensor can also be used as a door sensor by removing the probe). A combo pack bundling both sensors is available. No subscription is needed for real-time alerts, 24/7 monitoring, or 30-day history. Standard shipping takes 3-7 business days; Waggle currently ships within the United States only. Returns are accepted within 30 days of delivery if unused and in original packaging. All RV Smart Sensors include a 1-year limited warranty covering manufacturing defects.",
+    "tags": [
+      "setup",
+      "smart-sensor",
+      "door-sensor",
+      "leak-sensor",
+      "subscription",
+      "billing",
+      "warranty",
+      "replacement",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-smart-sensor-help-php-3",
+    "url": "https://support.mywaggle.com/smart-sensor-help.php",
+    "title": "Smart Sensor Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > Smart Sensor",
+    "category": "Setup",
+    "headingPath": "Subscription Plans",
+    "text": "Monthly: $24.99. Flexi Half Yearly: $119. Yearly: $199. 2 Year: $299.",
+    "tags": [
+      "setup",
+      "smart-sensor",
+      "door-sensor",
+      "leak-sensor"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-smart-sensor-help-php-4",
+    "url": "https://support.mywaggle.com/smart-sensor-help.php",
+    "title": "Smart Sensor Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > Smart Sensor",
+    "category": "Setup",
+    "headingPath": "Terms & Conditions",
+    "text": "Subscriptions begin on purchase date and auto-renew based on the selected plan; cancel anytime through the Waggle App. Refund policy: Wag Plan is eligible for a prorated refund if cancelled within 7 days; monthly plans are eligible for a refund if cancelled within 24 hours; outside these windows, no refunds are given and the plan remains active until the current period ends.",
+    "tags": [
+      "setup",
+      "smart-sensor",
+      "door-sensor",
+      "leak-sensor",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-camera-help-php-0",
+    "url": "https://support.mywaggle.com/rv-4g-camera-help.php",
+    "title": "RV 4G Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Camera",
+    "category": "Setup",
+    "headingPath": "Installation / How It Works",
+    "text": "The RV 4G Camera is designed for hassle-free installation with a complete mounting kit and detailed instructions; no professional help is required. It is IP65-rated for weather resistance and can be installed indoors or outdoors. The camera comes pre-installed with a 4G LTE SIM card and a 128GB SD card for local video storage. The optional solar panel works best in direct sunlight but can also charge in cloudy conditions. Key features: advanced motion detection, 4G LTE connectivity (no Wi-Fi needed), infrared night vision, weatherproof IP65 design, remote live streaming and playback, and solar panel compatibility. It requires a 4G LTE network with strong signal and is compatible with major US carriers like Verizon, AT&T, and T-Mobile, working in remote areas with cellular coverage.",
+    "tags": [
+      "setup",
+      "4g-camera",
+      "cellular",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-camera-help-php-1",
+    "url": "https://support.mywaggle.com/rv-4g-camera-help.php",
+    "title": "RV 4G Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Camera",
+    "category": "Setup",
+    "headingPath": "App Features",
+    "text": "The Waggle Pet App (iOS/Android) provides live video streaming, playback of recorded footage, all-day recording, motion detection alerts, spotlight (flash) control, night vision, and siren control. Multiple 4G cameras can be managed in one app. If the SD card is full, format it via Settings > Storage > Format SD card. Motion detection sensitivity can be set to Low, Medium, or High.\n\nOperating modes: Power Saving Mode (5 sec/frame AOV, 3 sec event recording, maximizes battery life), Performance Mode (2 sec/frame AOV, 6 sec event recording, enhances motion detection accuracy), and Custom Mode (adjustable balance of detail and battery). Anti-Flicker syncs the camera with regional power grid frequency (50Hz or 60Hz) to reduce artificial lighting flicker.",
+    "tags": [
+      "setup",
+      "4g-camera",
+      "cellular",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-camera-help-php-2",
+    "url": "https://support.mywaggle.com/rv-4g-camera-help.php",
+    "title": "RV 4G Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Camera",
+    "category": "Setup",
+    "headingPath": "Camera Controls & Subscription",
+    "text": "Pan/tilt is controlled via an on-screen joystick in landscape live-stream mode. The RV 4G Camera requires its own subscription plan to function, separate from other Waggle devices, and does not require WiFi or a hotspot. Manage the subscription via 4G Camera Settings > My Plan in the app.",
+    "tags": [
+      "setup",
+      "4g-camera",
+      "cellular",
+      "rv",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-camera-help-php-3",
+    "url": "https://support.mywaggle.com/rv-4g-camera-help.php",
+    "title": "RV 4G Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Camera",
+    "category": "Setup",
+    "headingPath": "Subscription Plans",
+    "text": "Monthly: $24.99. Yearly: $199.00. A 3-day trial provides access to live streaming and all features including Auto Tracking, Smart Light Detection, and Motion Detection; after the trial, a Spot Plan subscription is required to continue.",
+    "tags": [
+      "setup",
+      "4g-camera",
+      "cellular",
+      "rv",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-camera-help-php-4",
+    "url": "https://support.mywaggle.com/rv-4g-camera-help.php",
+    "title": "RV 4G Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Camera",
+    "category": "Setup",
+    "headingPath": "Terms & Conditions / Refund Policy",
+    "text": "Subscriptions begin on purchase date and auto-renew; cancel anytime via the app. Monthly: full refund if cancelled within 24 hours. Non-monthly (first-time): pro-rata refund within 7 days of activation. Non-monthly (renewals): prorated refund within 2 days of renewal date. Approved refunds are processed within 3-5 business days. Deleting a Waggle account stops future renewals but does not issue refunds outside the eligible windows.",
+    "tags": [
+      "setup",
+      "4g-camera",
+      "cellular",
+      "rv",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-mini-camera-help-php-0",
+    "url": "https://support.mywaggle.com/rv-4g-mini-camera-help.php",
+    "title": "RV 4G Mini Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Mini Cam",
+    "category": "Setup",
+    "headingPath": "Installation & Setup",
+    "text": "The 4G Mini Cam features a magnetic mount for quick, tool-free placement, plus an optional mounting bracket that can be permanently screwed into a surface for secure installation. It is IP65-rated for weather resistance, suitable indoors or outdoors, and comes pre-installed with a 4G LTE SIM and a 128GB SD card. Compatible solar panels are available for purchase. It connects via 4G LTE cellular only (no WiFi support) and works wherever 4G LTE coverage exists. It does not record 24/7; instead it uses smart motion-based (event) recording for up to 2 months of use on a single charge.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-mini-camera-help-php-1",
+    "url": "https://support.mywaggle.com/rv-4g-mini-camera-help.php",
+    "title": "RV 4G Mini Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Mini Cam",
+    "category": "Setup",
+    "headingPath": "Using the Waggle App",
+    "text": "Available on iOS App Store and Google Play. Features: live streaming, footage playback, event recording, motion detection alerts, spotlight control, night vision, and siren control. Multiple Waggle cameras can be managed from a single app account. Real-time motion alerts are sent instantly.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-mini-camera-help-php-2",
+    "url": "https://support.mywaggle.com/rv-4g-mini-camera-help.php",
+    "title": "RV 4G Mini Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Mini Cam",
+    "category": "Setup",
+    "headingPath": "Camera Controls & Connectivity FAQs",
+    "text": "Pan is controlled via on-screen joystick in landscape live-stream mode. The 4G Mini Cam requires its own subscription plan. It uses a built-in SIM and cellular plan through Waggle — customers cannot use their own SIM card. It does not support WiFi or 5G networks, only 4G LTE, and will not work with zero cellular signal (e.g. deep in the woods with no coverage). Streaming cannot be shared across multiple devices simultaneously. The app shows real-time online/offline device status.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-mini-camera-help-php-3",
+    "url": "https://support.mywaggle.com/rv-4g-mini-camera-help.php",
+    "title": "RV 4G Mini Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Mini Cam",
+    "category": "Setup",
+    "headingPath": "Subscription Plans",
+    "text": "Monthly Plan: $24.99. Yearly Plan: $199.00. A 3-day trial includes live streaming and all features (Auto Tracking, Smart Light Detection, Motion Detection). After the trial, the Spot Mini Plan subscription is required to continue service.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "support-mywaggle-com-rv-4g-mini-camera-help-php-4",
+    "url": "https://support.mywaggle.com/rv-4g-mini-camera-help.php",
+    "title": "RV 4G Mini Camera Help | Setup & Troubleshooting Guide",
+    "breadcrumb": "Support > RV 4G Mini Cam",
+    "category": "Setup",
+    "headingPath": "Terms & Conditions",
+    "text": "Subscriptions auto-renew from purchase date; cancel anytime via the Waggle App. Monthly: full refund within 24 hours. Non-monthly (first-time): pro-rata refund within 7 days. Non-monthly (renewals): prorated refund within 2 days of renewal. Refunds processed in 3-5 business days. Account deletion stops future renewals but does not trigger refunds outside eligible windows.",
+    "tags": [
+      "setup",
+      "mini-cam",
+      "wifi-camera",
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-return-and-replacement-0",
+    "url": "https://mywaggle.com/pages/return-and-replacement",
+    "title": "Waggle Return & Replacement Policy",
+    "breadcrumb": "Policies > Returns & Replacement",
+    "category": "Warranty",
+    "headingPath": "21-Day Return Policy",
+    "text": "Customers have 21 days from delivery to initiate a return. Active service plans are canceled with a pro-rated refund issued, excluding monthly plans. Return shipping fees range from $6-$12 depending on item type, unless the customer selects 'Free Returns and Exchanges.' A $10 restocking fee may apply if returns are incomplete or damaged. Items must be returned in their original condition with all accessories.",
+    "tags": [
+      "warranty",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-return-and-replacement-1",
+    "url": "https://mywaggle.com/pages/return-and-replacement",
+    "title": "Waggle Return & Replacement Policy",
+    "breadcrumb": "Policies > Returns & Replacement",
+    "category": "Warranty",
+    "headingPath": "How to Start a Return / Inspection & Refund Timeline",
+    "text": "Once a return is approved, a shipping label is provided; products should ship within 24 business hours of receiving the label. Upon arrival at Waggle, inspection occurs within 2 business days, and approved refunds process within 3 business days.",
+    "tags": [
+      "warranty",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-return-and-replacement-2",
+    "url": "https://mywaggle.com/pages/return-and-replacement",
+    "title": "Waggle Return & Replacement Policy",
+    "breadcrumb": "Policies > Returns & Replacement",
+    "category": "Warranty",
+    "headingPath": "Warranty & Replacement Policy",
+    "text": "Device-only purchases and monthly-plan devices receive a 1-Year Limited Warranty. Devices on annual or 2-year subscription plans qualify for a Lifetime Limited Warranty. Support first determines whether an issue can be resolved remotely or requires a replacement. Replacement shipping labels arrive within 24 hours, and customers must ship the defective item back within 2 business days. If an advance replacement ships first, the original defective unit must be returned within 30 days or a $50 charge applies. Contact support@mywaggle.com or 855-983-5566 for returns or warranty claims.",
+    "tags": [
+      "warranty",
+      "subscription",
+      "billing",
+      "replacement",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-waggle-subscription-explained-0",
+    "url": "https://mywaggle.com/pages/waggle-subscription-explained",
+    "title": "Why Does Waggle Have a Subscription? Plans & Value Explained",
+    "breadcrumb": "Policies > Subscription",
+    "category": "Subscription",
+    "headingPath": "Why a Subscription",
+    "text": "The Waggle subscription powers the connection that keeps devices running, alerts firing 24/7, and the entire pet safety ecosystem in one place. Waggle offers two product categories: 4G Products, which use an embedded SIM card connecting to multiple carriers (T-Mobile, AT&T, Verizon) with no Wi-Fi or separate data plan required, and Wi-Fi Products, a lower-cost option for locations with reliable internet connectivity.",
+    "tags": [
+      "subscription",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-waggle-subscription-explained-1",
+    "url": "https://mywaggle.com/pages/waggle-subscription-explained",
+    "title": "Why Does Waggle Have a Subscription? Plans & Value Explained",
+    "breadcrumb": "Policies > Subscription",
+    "category": "Subscription",
+    "headingPath": "Pricing Tiers",
+    "text": "4G Subscriptions: Monthly $24.99/month, Yearly $199/year (saves 34%), and a Flexi plan for Pet Monitor only at $119/year with pause-and-resume capability (up to 3 activations annually). Wi-Fi Subscriptions start at $4.99/month or $29.99/year. Multi-device discounts are available for additional devices.",
+    "tags": [
+      "subscription",
+      "pet-monitor",
+      "temperature",
+      "rv",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-waggle-subscription-explained-2",
+    "url": "https://mywaggle.com/pages/waggle-subscription-explained",
+    "title": "Why Does Waggle Have a Subscription? Plans & Value Explained",
+    "breadcrumb": "Policies > Subscription",
+    "category": "Subscription",
+    "headingPath": "What's Included",
+    "text": "The subscription includes real-time temperature/humidity/air quality monitoring, immediate threshold alerts, GPS tracking, geofencing, Waggle Places (a pet-friendly directory), Waggle Vault (document storage), live camera integration, smart sensor ecosystem support, and multi-device management. An optional add-on, Waggle Vet, provides 24/7 access to licensed veterinary guidance starting at $9.99/month or $99/year.",
+    "tags": [
+      "subscription",
+      "smart-sensor",
+      "door-sensor",
+      "leak-sensor",
+      "billing"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-heatstroke-in-dogs-0",
+    "url": "https://mywaggle.com/pages/heatstroke-in-dogs",
+    "title": "Heatstroke in Dogs: Prevention, Symptoms & First Aid Tips",
+    "breadcrumb": "Pet Guides > Heatstroke in Pets",
+    "category": "FAQ",
+    "headingPath": "Overview & Early Warning Signs",
+    "text": "Heatstroke is a potentially life-threatening condition that occurs when a dog's core body temperature rises to a dangerously high level, caused by environmental heat and an inability to cool down effectively. Early warning signs include panting, searching for a cool place to rest, and loss of interest in eating.",
+    "tags": [
+      "faq",
+      "heatstroke",
+      "pet-safety",
+      "emergency"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-heatstroke-in-dogs-1",
+    "url": "https://mywaggle.com/pages/heatstroke-in-dogs",
+    "title": "Heatstroke in Dogs: Prevention, Symptoms & First Aid Tips",
+    "breadcrumb": "Pet Guides > Heatstroke in Pets",
+    "category": "FAQ",
+    "headingPath": "Severe Symptoms & Dehydration",
+    "text": "Advanced heatstroke can present with bright red gums, diarrhea (which may be bloody), collapse, and seizure. Heatstroke often goes hand-in-hand with dehydration in dogs. Moderate dehydration shows dry gums and reduced energy, while severe cases cause sunken eyes and extreme lethargy.",
+    "tags": [
+      "faq",
+      "heatstroke",
+      "pet-safety",
+      "emergency"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-heatstroke-in-dogs-2",
+    "url": "https://mywaggle.com/pages/heatstroke-in-dogs",
+    "title": "Heatstroke in Dogs: Prevention, Symptoms & First Aid Tips",
+    "breadcrumb": "Pet Guides > Heatstroke in Pets",
+    "category": "FAQ",
+    "headingPath": "Prevention & Emergency First Aid",
+    "text": "Check the temperature before exercise, ensure access to a cool, shaded, well-ventilated location, and maintain a constant water supply. The Waggle Pet Monitor is promoted for real-time temperature tracking in vehicles. If symptoms appear, immediately move the dog somewhere cool with ventilation, apply cool (not cold) water to the body while avoiding the head, and transport to a veterinary hospital promptly. A body temperature over 106°F (41.1°C) is a veterinary emergency requiring immediate professional intervention.",
+    "tags": [
+      "faq",
+      "pet-monitor",
+      "temperature",
+      "rv",
+      "heatstroke",
+      "pet-safety",
+      "emergency"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-rving-with-pets-0",
+    "url": "https://mywaggle.com/pages/rving-with-pets",
+    "title": "RVing with Pets – Waggle",
+    "breadcrumb": "Pet Guides > RVing with Pets",
+    "category": "FAQ",
+    "headingPath": "Why RVing with Pets Is So Special / Challenges",
+    "text": "Traveling by RV with dogs combines adventure with convenience, allowing pet owners to explore while keeping their companions nearby. Challenges include temperature regulation inside the vehicle, difficulty monitoring pets when away from the RV, emergency response concerns during outdoor activities, air quality issues, limited interior space, and varying campground pet regulations.",
+    "tags": [
+      "faq",
+      "rv-travel",
+      "pet-travel"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-rving-with-pets-1",
+    "url": "https://mywaggle.com/pages/rving-with-pets",
+    "title": "RVing with Pets – Waggle",
+    "breadcrumb": "Pet Guides > RVing with Pets",
+    "category": "FAQ",
+    "headingPath": "Tips for a Pawsome RV Adventure",
+    "text": "Pack a 'Doggie Go-Bag' with food, water, toys, and first-aid supplies. Research dog-friendly campgrounds and parks before traveling. Maintain consistent feeding and exercise routines to reduce stress. Use appropriate restraints like harnesses or travel crates while driving. Schedule regular breaks for walking and playtime.",
+    "tags": [
+      "faq",
+      "rv-travel",
+      "pet-travel"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-find-your-rv-setup-0",
+    "url": "https://mywaggle.com/pages/find-your-rv-setup",
+    "title": "Find Your RV Setup - Waggle Pet Safety",
+    "breadcrumb": "Products > Find Your Fit",
+    "category": "FAQ",
+    "headingPath": "Find the Right Waggle Setup for Your RV",
+    "text": "This page offers a short quiz to help customers identify the ideal Waggle monitoring system by answering three questions: whether you travel with pets or monitor the RV only; whether your primary concern is temperature/air-quality monitoring, live video, or both; and whether you need a backup or driving camera. Waggle products are described as pet-safe certified, 4G connected, offering real-time alerts and easy setup, with free shipping, 21-day returns, lifetime limited warranty, and 24/7 chat support.",
+    "tags": [
+      "faq",
+      "warranty",
+      "replacement",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-pet-monitor-0",
+    "url": "https://mywaggle.com/products/pet-monitor",
+    "title": "Waggle Pet Monitor",
+    "breadcrumb": "Products > Pet Monitor",
+    "category": "FAQ",
+    "headingPath": "Waggle Pet Monitor",
+    "text": "Monitors the RV temperature & humidity in your vehicle in real-time, and alerts you instantly. A cellular-based temperature and humidity monitoring system designed for RV owners, tracking environmental conditions and sending instant notifications via text, email, and mobile app when conditions become unsafe for pets.",
+    "tags": [
+      "faq",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-pet-monitor-1",
+    "url": "https://mywaggle.com/products/pet-monitor",
+    "title": "Waggle Pet Monitor",
+    "breadcrumb": "Products > Pet Monitor",
+    "category": "FAQ",
+    "headingPath": "Models & Pricing",
+    "text": "Pet Monitor Lite+: $99 (was $199). Pet Monitor Pro+ Air: $169 (was $399), Most Popular. RV Hub One: $229 (was $459), New Launch.",
+    "tags": [
+      "faq",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-pet-monitor-2",
+    "url": "https://mywaggle.com/products/pet-monitor",
+    "title": "Waggle Pet Monitor",
+    "breadcrumb": "Products > Pet Monitor",
+    "category": "FAQ",
+    "headingPath": "Key Features",
+    "text": "Pet Monitor Lite+: built-in 4G cellular (no Wi-Fi required), power loss & recovery alerts, temperature and humidity monitoring, 120-hour backup battery, multi-carrier support (AT&T, Verizon, T-Mobile), text/email/push notifications, rapid charging, 1000mAh battery (up to 24 hours). Pro+ Air adds Air Quality Index (AQI) alerts, RVSentry geofence alerts, a digital display, and real-time monitoring on smartphone and smartwatch. RV Hub One adds a pre-paired RV Door Sensor and RV Water Leak Sensor with a unified dashboard for 3 devices. Additional capabilities: 10-minute check-in intervals, virtual zone exit notifications, power failure detection, multi-user alert distribution.",
+    "tags": [
+      "faq",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-pet-monitor-3",
+    "url": "https://mywaggle.com/products/pet-monitor",
+    "title": "Waggle Pet Monitor",
+    "breadcrumb": "Products > Pet Monitor",
+    "category": "FAQ",
+    "headingPath": "Warranty & Support",
+    "text": "Free shipping, 21-day return policy, Lifetime Limited Warranty (on annual/2-year plans), 24/7 chat support.",
+    "tags": [
+      "faq",
+      "pet-monitor",
+      "temperature",
+      "rv",
+      "warranty",
+      "replacement",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-waggle-pet-camera-0",
+    "url": "https://mywaggle.com/products/waggle-pet-camera",
+    "title": "Waggle Pet Cameras",
+    "breadcrumb": "Products > Pet Cameras",
+    "category": "FAQ",
+    "headingPath": "Waggle Pet Cameras",
+    "text": "Smart cameras for real-time pet monitoring. 'Takes 2 Minutes. Saves a Lifetime of Stress.' The Waggle Pet Camera line offers wireless monitoring with HD video, two-way audio, and night vision, letting pet parents watch and talk to their pets remotely. Designed for both RV travelers and home use, with Wi-Fi and 4G LTE cellular connectivity options.",
+    "tags": [
+      "faq",
+      "pet-monitor",
+      "temperature",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-waggle-pet-camera-1",
+    "url": "https://mywaggle.com/products/waggle-pet-camera",
+    "title": "Waggle Pet Cameras",
+    "breadcrumb": "Products > Pet Cameras",
+    "category": "FAQ",
+    "headingPath": "Key Features",
+    "text": "1080p HD video streaming and recording, two-way audio, night vision, 360-degree rotation and pan/tilt control, motion and sound detection alerts, smart AI features (auto tracking, intrusion detection), event history playback, easy setup via the Waggle App (iOS & Android), all-day and event-based recording options. Model-specific extras include a treat tosser (WaggleCam Pro), privacy mode, spotlight/alarm deterrence, human detection, solar power (4G models), and IP65 waterproof rating (outdoor models).",
+    "tags": [
+      "faq",
+      "wagglecam",
+      "camera",
+      "treat-tosser"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-waggle-pet-camera-2",
+    "url": "https://mywaggle.com/products/waggle-pet-camera",
+    "title": "Waggle Pet Cameras",
+    "breadcrumb": "Products > Pet Cameras",
+    "category": "FAQ",
+    "headingPath": "Models",
+    "text": "RV WiFi Mini Cam - Duo, RV Cam AI Mini, WaggleCam Pro, RV 4G Mini Camera, RV 4G Camera, WaggleCam Pro Collector's Edition. Customer rating: 4.4/5 stars, trusted by 100,000+ pet parents. Free shipping, 21-day return policy, Lifetime Limited Warranty, 24/7 chat support.",
+    "tags": [
+      "faq",
+      "wagglecam",
+      "camera",
+      "treat-tosser",
+      "4g-camera",
+      "cellular",
+      "rv",
+      "mini-cam",
+      "wifi-camera",
+      "warranty",
+      "replacement",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-waggle-4g-camera-0",
+    "url": "https://mywaggle.com/products/waggle-4g-camera",
+    "title": "Waggle RV 4G Camera",
+    "breadcrumb": "Products > RV 4G Camera",
+    "category": "FAQ",
+    "headingPath": "Waggle RV 4G Camera",
+    "text": "'No Wi-Fi. No Wires. No Worries.' 100% 4G-powered RV protection. A wireless security camera designed for RV owners and pet parents that operates independently via built-in 4G LTE connectivity, enabling real-time monitoring so you can see and talk to your pet before they get distressed.",
+    "tags": [
+      "faq",
+      "4g-camera",
+      "cellular",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-waggle-4g-camera-1",
+    "url": "https://mywaggle.com/products/waggle-4g-camera",
+    "title": "Waggle RV 4G Camera",
+    "breadcrumb": "Products > RV 4G Camera",
+    "category": "FAQ",
+    "headingPath": "Key Features & Specifications",
+    "text": "Built-in 4G LTE with multi-carrier SIM included; 2K clarity with 350-degree rotation; day/night mode with infrared night vision; smart AI motion and human detection; 15-day battery life with optional solar charging; two-way audio; IP65 weatherproof rating (indoor/outdoor); pre-installed 128GB SD card; Always-On-Video (AOV) mode; alarm and spotlight deterrence; power-saving mode.",
+    "tags": [
+      "faq",
+      "4g-camera",
+      "cellular",
+      "rv"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-products-waggle-4g-camera-2",
+    "url": "https://mywaggle.com/products/waggle-4g-camera",
+    "title": "Waggle RV 4G Camera",
+    "breadcrumb": "Products > RV 4G Camera",
+    "category": "FAQ",
+    "headingPath": "What's Included & Notes",
+    "text": "Includes a pre-installed 4G LTE SIM card, a pre-installed 128GB SD card, and the camera unit with mounting hardware. Requires a separate 4G subscription plan for full functionality. Comes with a 21-day return window and Lifetime Limited Warranty, plus free shipping.",
+    "tags": [
+      "faq",
+      "4g-camera",
+      "cellular",
+      "rv",
+      "subscription",
+      "billing",
+      "warranty",
+      "replacement",
+      "returns",
+      "refund"
+    ],
+    "lastUpdated": null
+  },
+  {
+    "id": "mywaggle-com-pages-homepage-company-facts-0",
+    "url": "https://mywaggle.com/pages/homepage-company-facts",
+    "title": "About Waggle",
+    "breadcrumb": "Company",
+    "category": "FAQ",
+    "headingPath": "Who Waggle Is",
+    "text": "Waggle specializes in pet and RV monitoring solutions, providing real-time temperature monitoring, security cameras, and smart sensors for RV owners and pet parents. The company has over 20 years of experience in pet protection, more than 9 million social media followers, over 100,000 satisfied customers, and 1,700+ Amazon global ratings. Waggle's brand tagline is 'Built for Pets, Trusted by Pet Parents!' The Waggle Pet Suite mobile app integrates veterinary telehealth, GPS tracking, and activity monitoring alongside the core device lineup.",
+    "tags": [
+      "faq",
+      "smart-sensor",
+      "door-sensor",
+      "leak-sensor"
+    ],
+    "lastUpdated": null
+  }
+]
