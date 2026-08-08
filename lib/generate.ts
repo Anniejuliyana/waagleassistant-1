@@ -36,8 +36,11 @@ export function getModel(): LanguageModel | null {
   // documented env var name instead, so we must construct the provider
   // explicitly and pass the key through rather than relying on the default.
   if (process.env.GEMINI_API_KEY) {
+    // gemini-1.5-flash was retired; gemini-3.6-flash is the current fast/cheap
+    // free-tier model for generateContent as of August 2026 (see
+    // https://ai.google.dev/gemini-api/docs/models and /docs/pricing).
     const google = createGoogleGenerativeAI({ apiKey: process.env.GEMINI_API_KEY });
-    return google("gemini-1.5-flash");
+    return google("gemini-3.6-flash");
   }
   if (process.env.OPENAI_API_KEY) {
     return openai("gpt-4o-mini");
